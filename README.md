@@ -18,7 +18,7 @@ Mapas personalizados raster para OsmAnd
   * https://www.ign.es/wmts/primera-edicion-mtn?request=getTile&layer=mtn50-edicion1&TileMatrixSet=GoogleMapsCompatible&TileMatrix={2}&TileCol={0}&TileRow={1}&format=image/jpeg
   
 * Strava HeatMaps (Mapa de calor ciclismo y runnning)
-  * https://heatmap-external-{switch:a,b,c}.strava.com/tiles/both/bluered/{0}/{1}/{2}.png
+  * https://heatmap-external-{switch:a,b,c}.strava.com/tiles/both/bluered/{2}/{0}/{1}.png
 
 Mapas personalizados raster para OpenStreetMap
 * IGV 2019 Satélite - Ortofotos
