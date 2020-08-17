@@ -12,9 +12,9 @@ Mapas personalizados raster para OsmAnd
   * https://www.ign.es/wmts/pnoa-ma?request=getTile&layer=OI.OrthoimageCoverage&TileMatrixSet=GoogleMapsCompatible&TileMatrix={2}&TileCol={0}&TileRow={1}&format=image/jpeg
 * IGN Catastro historico
   * https://www.ign.es/wmts/primera-edicion-mtn?request=getTile&layer=catastrones&TileMatrixSet=GoogleMapsCompatible&TileMatrix={2}&TileCol={0}&TileRow={1}&format=image/jpeg
-* IGN m25
+* IGN Mapa Topográfico Nacional 1:25.000 (MTN25) - Edición 1
   * https://www.ign.es/wmts/primera-edicion-mtn?request=getTile&layer=mtn25-edicion1&TileMatrixSet=GoogleMapsCompatible&TileMatrix={2}&TileCol={0}&TileRow={1}&format=image/jpeg
-* IGN m50
+* IGN Mapa Topográfico Nacional 1:50.000 (MTN50) - Edición 1
   * https://www.ign.es/wmts/primera-edicion-mtn?request=getTile&layer=mtn50-edicion1&TileMatrixSet=GoogleMapsCompatible&TileMatrix={2}&TileCol={0}&TileRow={1}&format=image/jpeg
   
 * Strava HeatMaps (Mapa de calor ciclismo y runnning)
@@ -33,9 +33,9 @@ Mapas personalizados raster para OpenStreetMap
   * https://www.ign.es/wmts/mapa-raster?request=getTile&layer=MTN&TileMatrixSet=GoogleMapsCompatible&TileMatrix={z}&TileCol={x}&TileRow={y}&format=image/jpeg
 * IGN Catastro historico
   * https://www.ign.es/wmts/primera-edicion-mtn?request=getTile&layer=catastrones&TileMatrixSet=GoogleMapsCompatible&TileMatrix={z}&TileCol={x}&TileRow={y}&format=image/jpeg
-* IGN m25
+* IGN Mapa Topográfico Nacional 1:25.000 (MTN25) - Edición 1
   * https://www.ign.es/wmts/primera-edicion-mtn?request=getTile&layer=mtn25-edicion1&TileMatrixSet=GoogleMapsCompatible&TileMatrix={z}&TileCol={x}&TileRow={y}&format=image/jpeg
-* IGN m50
+* IGN Mapa Topográfico Nacional 1:50.000 (MTN50) - Edición 1
   * https://www.ign.es/wmts/primera-edicion-mtn?request=getTile&layer=mtn50-edicion1&TileMatrixSet=GoogleMapsCompatible&TileMatrix={z}&TileCol={x}&TileRow={y}&format=image/jpeg
 
 * Strava HeatMaps (Mapa de calor ciclismo y runnning)
