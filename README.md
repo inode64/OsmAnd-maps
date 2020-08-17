@@ -10,7 +10,7 @@ Mapas personalizados raster para OsmAnd
   * https://www.ign.es/wmts/mapa-raster?request=getTile&layer=MTN&TileMatrixSet=GoogleMapsCompatible&TileMatrix={0}&TileCol={1}&TileRow={2}&format=image/jpeg
 * IGN Satélite - Ortofotos
   * https://www.ign.es/wmts/pnoa-ma?request=getTile&layer=OI.OrthoimageCoverage&TileMatrixSet=GoogleMapsCompatible&TileMatrix={2}&TileCol={0}&TileRow={1}&format=image/jpeg
-* IGN Catastro historico
+* IGN Catastro histórico
   * https://www.ign.es/wmts/primera-edicion-mtn?request=getTile&layer=catastrones&TileMatrixSet=GoogleMapsCompatible&TileMatrix={2}&TileCol={0}&TileRow={1}&format=image/jpeg
 * IGN Mapa Topográfico Nacional 1:25.000 (MTN25) - Edición 1
   * https://www.ign.es/wmts/primera-edicion-mtn?request=getTile&layer=mtn25-edicion1&TileMatrixSet=GoogleMapsCompatible&TileMatrix={2}&TileCol={0}&TileRow={1}&format=image/jpeg
@@ -31,7 +31,7 @@ Mapas personalizados raster para OpenStreetMap
   * https://www.ign.es/wmts/ign-base?request=getTile&layer=IGNBaseTodo&TileMatrixSet=GoogleMapsCompatible&TileMatrix={z}&TileCol={x}&TileRow={y}&format=image/jpeg
 * IGN Topo
   * https://www.ign.es/wmts/mapa-raster?request=getTile&layer=MTN&TileMatrixSet=GoogleMapsCompatible&TileMatrix={z}&TileCol={x}&TileRow={y}&format=image/jpeg
-* IGN Catastro historico
+* IGN Catastro histórico
   * https://www.ign.es/wmts/primera-edicion-mtn?request=getTile&layer=catastrones&TileMatrixSet=GoogleMapsCompatible&TileMatrix={z}&TileCol={x}&TileRow={y}&format=image/jpeg
 * IGN Mapa Topográfico Nacional 1:25.000 (MTN25) - Edición 1
   * https://www.ign.es/wmts/primera-edicion-mtn?request=getTile&layer=mtn25-edicion1&TileMatrixSet=GoogleMapsCompatible&TileMatrix={z}&TileCol={x}&TileRow={y}&format=image/jpeg
@@ -41,6 +41,6 @@ Mapas personalizados raster para OpenStreetMap
 * Strava HeatMaps (Mapa de calor ciclismo y runnning)
   * https://heatmap-external-{switch:a,b,c}.strava.com/tiles/both/bluered/{zoom}/{x}/{y}.png
 
-Enlaces de interes
-  * Descarga de mapas offline http://www.sasgis.org/
-  * Crear mapas offiline para OsmAnd https://dailyway.ru/sozdanie-kart-sqlite-galileo-i-oasmand-v-sasplanet/
+Enlaces de interés
+  * Descarga de mapas offline -> http://www.sasgis.org/
+  * Crear mapas offiline para OsmAnd -> https://dailyway.ru/sozdanie-kart-sqlite-galileo-i-oasmand-v-sasplanet/
