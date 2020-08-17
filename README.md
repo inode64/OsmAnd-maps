@@ -8,7 +8,7 @@ Mapas, perfiles y documentación para mejorar el uso de OsmAnd y OpenStreetMap
     * https://terramapas.icv.gva.es/mapabase_topografico/wmts/1.0.0/topografico_continuo_epsg3857/default/GMEPSG3857/{0}/{2}/{1}.png
   * IGN Topo
     * http://www.ign.es/wmts/mapa-raster?request=getTile&layer=MTN&TileMatrixSet=GoogleMapsCompatible&TileMatrix={0}&TileCol={1}&TileRow={2}&format=image/jpeg
-  * Strava HeatMaps
+  * Strava HeatMaps (Mapa de calor ciclismo y runnning)
     * https://heatmap-external-{switch:a,b,c}.strava.com/tiles/both/bluered/{0}/{1}/{2}.png
 
 * Mapas personalizados raster para OpenStreetMap
@@ -18,7 +18,7 @@ Mapas, perfiles y documentación para mejorar el uso de OsmAnd y OpenStreetMap
     * https://terramapas.icv.gva.es/mapabase_topografico/wmts/1.0.0/topografico_continuo_epsg3857/default/GMEPSG3857/{z}/{y}/{x}.png
   * IGN Topo
     * http://www.ign.es/wmts/mapa-raster?request=getTile&layer=MTN&TileMatrixSet=GoogleMapsCompatible&TileMatrix={z}&TileCol={x}&TileRow={y}&format=image/jpeg
-  * Strava HeatMaps
+  * Strava HeatMaps (Mapa de calor ciclismo y runnning)
     * https://heatmap-external-{switch:a,b,c}.strava.com/tiles/both/bluered/{zoom}/{x}/{y}.png
 
 * Enlaces de interes
