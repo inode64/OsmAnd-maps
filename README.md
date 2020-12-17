@@ -31,6 +31,8 @@ https://www.ign.es/wmts/primera-edicion-mtn?request=getTile&layer=mtn50-edicion1
 
 https://heatmap-external-{switch:a,b,c}.strava.com/tiles/both/bluered/{2}/{0}/{1}.png
 
+---
+
 Mapas personalizados raster para OpenStreetMap
 
 * IGV 2019 Satélite - Ortofoto Comunitat Valenciana RGB
