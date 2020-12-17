@@ -4,7 +4,7 @@ Mapas, perfiles y documentación para mejorar el uso de OsmAnd y OpenStreetMap
 Mapas personalizados raster para OsmAnd
 
 * IGV 2019 Satélite - Ortofoto Comunitat Valenciana RGB
-<span style="font-size:4em;">https://terramapas.icv.gva.es/odcv05_etrs89h30_2019_3857/wmts/1.0.0/01_8bits_01_RGB_05_PNG/default/GMEPSG3857/{0}/{2}/{1}.png</font>
+- https://terramapas.icv.gva.es/odcv05_etrs89h30_2019_3857/wmts/1.0.0/01_8bits_01_RGB_05_PNG/default/GMEPSG3857/{0}/{2}/{1}.png
 * IGV 2020 Satélite - Ortofoto Comunitat Valenciana 25cm RGB
 https://terramapas.icv.gva.es/odcv05_etrs89h30_2020_3857/wmts/1.0.0/01_8bits_01_RGB_05_PNG/default/GMEPSG3857/{0}/{2}/{1}.png
 * IGV 2019 Topo
