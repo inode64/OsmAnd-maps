@@ -65,6 +65,9 @@ https://www.ign.es/wmts/primera-edicion-mtn?request=getTile&layer=mtn50-edicion1
 * Strava HeatMaps (Mapa de calor ciclismo y runnning)
 
 https://heatmap-external-{switch:a,b,c}.strava.com/tiles/both/bluered/{zoom}/{x}/{y}.png
+* ICV 1956 Ortofotos 50cm
+
+https://terramapas.icv.gva.es/odcv10_etrs89h30_1956_3857/wmts/1.0.0/01_8bits_04_PAN_05_PNG/default/GMEPSG3857/{z}/{y}/{x}.png
 
 Enlaces de interés
   * Descarga de mapas offline -> http://www.sasgis.org/
